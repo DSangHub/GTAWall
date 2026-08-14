@@ -1,0 +1,1 @@
+ALTER TABLE `dealer_profiles` ADD `logoUrl` text;
