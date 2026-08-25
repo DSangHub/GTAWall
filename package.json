@@ -1,7 +1,7 @@
 {
   "name": "gtawall",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
+    "@vercel/node": "latest",
+    "pg": "latest",
+    "stripe": "latest",
     "vite": "latest",
     "typescript": "latest",
     "react": "latest",
